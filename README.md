@@ -13,8 +13,8 @@ Items to be scanned must be given as input in test.py script
 python test.py
 ``` 
 # Pricing Rule Interpretation
-* "nsh": "3 pay_price_of 2" :- For item nsh(Nike Shoe) , pay price of 2 if you buy 3
-* "stv": "499.99 buy_more_than 4" :- For item stv(Sony TV) , pay $499.99 if you buy more than 4
-* "cac": "free mch" :- If you buy cac(Central AC), mch(Charger) is free
-* "mch": "no_rule" :- No rule for item mch(Charger)
+* **"nsh": "3 pay_price_of 2"** :- For item nsh(Nike Shoe) , pay price of 2 if you buy 3
+* **"stv": "499.99 buy_more_than 4"** :- For item stv(Sony TV) , pay $499.99 if you buy more than 4
+* **"cac": "free mch"** :- If you buy cac(Central AC), mch(Charger) is free
+* **"mch": "no_rule"** :- No rule for item mch(Charger)
 
